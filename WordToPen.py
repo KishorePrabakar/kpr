@@ -1,0 +1,22 @@
+import turtle
+
+wn = turtle.screensize(1366,720,"white")
+pen = turtle.Turtle()
+pen.pensize(5)
+pen.color("blue")
+pen.shape("turtle")
+
+pen.forward(500)
+pen.penup()
+pen.right(90)
+pen.pendown()
+pen.forward(500)
+pen.penup()
+pen.right(90)
+pen.pendown()
+pen.forward(500)
+pen.penup()
+pen.right(90)
+pen.pendown()
+pen.forward(500)
+pen.penup()
